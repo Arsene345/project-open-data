@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ProjectOpenData">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCDRgZGp_htkXhx_ZS2TdQhQ_wcMTgR158"
+            android:value="your google api key"
         />
         <activity android:name=".vue.PreferenceActivity"
             android:exported="false"/>
